@@ -7,4 +7,5 @@
 3. Trzy
 4. Cztery
 
+
 ~~ 5. Pięć ~~ 
