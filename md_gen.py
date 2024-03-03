@@ -85,7 +85,7 @@ print(md_str)
 
 
 
-with open("strona.md", "w") as text_file:
+with open("ekstraklasa.md", "w") as text_file:
     text_file.write(md_str)
 
 for i in range(len(teams)):
