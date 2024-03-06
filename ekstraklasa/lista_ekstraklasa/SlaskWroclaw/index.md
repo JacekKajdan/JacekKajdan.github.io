@@ -1,5 +1,15 @@
 # Wiadomości o klubie Śląsk Wrocław
 
+06/03/2024  17:12 
+
+## Śląsk Wrocław transfery: Kenneth Zohore nie jest już piłkarzem Śląska! Transferowy niewypał rozwiązał kontrakt 
+
+Kenneth Zohore nie jest już piłkarzem Śląska Wrocław. WKS poinformował, że Duńczyk rozwiązał umowę z klubem za porozumieniem stron. Zohore spędził we Wrocławiu nieco ponad pół roku i zaliczył tylko sześć występów na poziomie ekstraklasy. 
+
+[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/śląsk-wrocław-transfery-kenneth-zohore-nie-jest-już-piłkarzem-śląska-transferowy-niewypał-rozwiązał-kontrakt/ar-BB1jrkoG) 
+
+![Zdjęcie](None) 
+
 06/03/2024  16:07 
 
 ## Śląsk Wrocław. Aleks Pektov powołany do reprezentacji Bułgarii 
@@ -39,15 +49,5 @@ Kenneth Zohore odszedł ze Śląska Wrocław. Dziś lider Ekstraklasy poinformow
 [Link do całego artykułu](https://weszlo.com/2024/03/06/slask-wroclaw-kenneth-zohore-transfery/) 
 
 ![Zdjęcie](None) 
-
-04/03/2024  12:28 
-
-## Śląsk Wrocław otwiera Centrum Kibiców 
-
-To będzie ważny dzień dla wszystkich fanów piłki nożnej. We wtorek przy Piłsudskiego 44 zostanie otwarte Centrum Kibiców Śląska Wrocław. Składać się będzie z dwóch części. Pierwszą z nich jest klubowy sklep z koszulkami i gadżetami, a o drugiej opowiada prezes klubu - Patryk Załęczny: 
-
-[Link do całego artykułu](https://www.radiowroclaw.pl/articles/view/138665/Slask-Wroclaw-otwiera-Centrum-Kibicow) 
-
-![Zdjęcie](https://www.radiowroclaw.pl/img/articles/138665/pgOqTULJ3j.jpg) 
 
 [Powrót do listy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)

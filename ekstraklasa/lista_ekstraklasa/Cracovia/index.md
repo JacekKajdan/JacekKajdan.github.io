@@ -1,5 +1,15 @@
 # Wiadomości o klubie Cracovia
 
+06/03/2024  19:37 
+
+## Comarch Cracovia - Re-Plast Unia Oświęcim. Odrodzone "Pasy"! 
+
+Comarch Cracovia - Re-Plast Unia Oświęcim 4:1 w czwartym meczu ćwierćfinałowym fazy play-off. Stan rywalizacji wynosi teraz 2:2, a kolejny mecz w sobotę w Oświęcimiu. 
+
+[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/comarch-cracovia-re-plast-unia-oświęcim-odrodzone-pasy/ar-BB1jrsV6) 
+
+![Zdjęcie](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1jrsV1.img?w=640&h=400&m=4&q=71) 
+
 01/03/2024  17:37 
 
 ## Warta przynudzała, ale wygrała. Cracovia ciągle jest słaba i nijaka 
@@ -9,16 +19,6 @@ Jeden celny strzał ze strony obu zespołów do przerwy. Warta, która zwłaszcz
 [Link do całego artykułu](https://weszlo.com/2024/03/01/cracovia-warta-ekstraklasa-relacja-wynik/) 
 
 ![Zdjęcie](https://static.weszlo.com/cdn-cgi/image/quality=65,format=auto/2024/03/20240301_PLA_009-scaled.jpg) 
-
-01/03/2024  20:58 
-
-## Zmarnowane okazje zemściły się na Cracovii. Cenne zwycięstwo Warty [WIDEO] 
-
-Warta Poznań 23. kolejce Ekstraklasy odniosła cenne zwycięstwo w Krakowie. Ekipa ze stolicy Wielkopolski pokonała pod Wawelem miejscową Cracovię 1:0. Dzięki temu podopieczni Dawida Szulczka minęli "Pa 
-
-[Link do całego artykułu](https://sport.dziennik.pl/pilka-nozna/ekstraklasa/artykuly/9446418,zmarnowane-okazje-zemscily-sie-na-cracovii-cenne-zwyciestwo-warty-wi.html) 
-
-![Zdjęcie](https://ocdn.eu/pulscms-transforms/1/_h5k9kuTURBXy9hZWM4OTcwYS00MjYwLTQwYmQtODU5Yy1jYzAzZGUxMGIwZmQuanBlZ5GVAs0EsADDw94AAaEwBQ) 
 
 10/02/2024  06:00 
 
@@ -30,6 +30,16 @@ Po dośrodkowaniu z rzutu rożnego Paweł Jaroszyński dopadł do piłki na 17. 
 
 ![Zdjęcie](None) 
 
+01/03/2024  20:58 
+
+## Zmarnowane okazje zemściły się na Cracovii. Cenne zwycięstwo Warty [WIDEO] 
+
+Warta Poznań 23. kolejce Ekstraklasy odniosła cenne zwycięstwo w Krakowie. Ekipa ze stolicy Wielkopolski pokonała pod Wawelem miejscową Cracovię 1:0. Dzięki temu podopieczni Dawida Szulczka minęli "Pa 
+
+[Link do całego artykułu](https://sport.dziennik.pl/pilka-nozna/ekstraklasa/artykuly/9446418,zmarnowane-okazje-zemscily-sie-na-cracovii-cenne-zwyciestwo-warty-wi.html) 
+
+![Zdjęcie](https://ocdn.eu/pulscms-transforms/1/_h5k9kuTURBXy9hZWM4OTcwYS00MjYwLTQwYmQtODU5Yy1jYzAzZGUxMGIwZmQuanBlZ5GVAs0EsADDw94AAaEwBQ) 
+
 22/02/2024  06:25 
 
 ## Dramat piłkarza Cracovii trwa. Przekazał kibicom najnowsze informacje. Nie gra od prawie 500 dni 
@@ -39,15 +49,5 @@ Mathias Hebo Rasmussen wnosił wiele jakości do gry Cracovii, ale od dłuższeg
 [Link do całego artykułu](https://futbol.pl/news/583072_Dramat_pilkarza_Cracovii_trwa_Przekazal_kibicom_najnowsze_informacje_Nie_gra_od_prawie_500_dni) 
 
 ![Zdjęcie](https://futbol.pl/images/1708587833_cracovia - Copy 1.png) 
-
-05/03/2024  19:49 
-
-## Comarch Cracovia - Re-Plast Unia Oświęcim. Goście pokazali moc 
-
-Comarch Cracovia - Re-Plast Unia Oświęcim 1:5 w trzecim meczu ćwierćfinałowym fazy play-off o mistrzostwo Polski. Kolejne spotkanie rozegranie zostanie w środę o godz. 18.30 również w Krakowie. Gra się do czterech wygranych. 
-
-[Link do całego artykułu](https://www.msn.com/pl-pl/news/other/comarch-cracovia-re-plast-unia-oświęcim-goście-pokazali-moc/ar-BB1jnJnv) 
-
-![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/f0/dc/65e76bdde982e_o_original.jpg) 
 
 [Powrót do listy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)

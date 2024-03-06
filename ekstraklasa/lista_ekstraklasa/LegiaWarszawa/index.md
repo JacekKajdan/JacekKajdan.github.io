@@ -1,5 +1,15 @@
 # Wiadomości o klubie Legia Warszawa
 
+06/03/2024  19:39 
+
+## Wielkie zwycięstwo Legii w ćwierćfinale Pucharu Europy! Faworyt bez szans 
+
+Świetne obrona i kuteczność za trzy punkty dały koszykarzom Legii Warszawa imponujące zwycięstwo 83:64 z Surne Bilbao w pierwszym meczu ćwierćfinału Pucharu Europy FIBA. To duże osiągnięcie legionistó 
+
+[Link do całego artykułu](https://www.sport.pl/koszykowka/7,65070,30771416,wielkie-zwyciestwo-legii-w-cwiercfinale-pucharu-europy-faworyt.html) 
+
+![Zdjęcie](https://bi.im-g.pl/im/ee/58/1d/z30771438IER,Aric-Holman.jpg) 
+
 06/03/2024  18:50 
 
 ## Legia Warszawa. Ariel Mosór opowiedział o swoim pobycie w stołecznym klubie i o swoich minutach. "Nie chodzi o Legię, tylko o jej trenera" 
@@ -9,26 +19,6 @@ Legia Warszawa. Ariel Mosór z pewnością liczył na zdecydowanie więcej szans
 [Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/legia-warszawa-ariel-mosór-opowiedział-o-swoim-pobycie-w-stołecznym-klubie-i-o-swoich-minutach-nie-chodzi-o-legię-tylko-o-jej-trenera/ar-BB1jrBYD) 
 
 ![Zdjęcie](None) 
-
-06/03/2024  12:41 
-
-## Mosór bije w Michniewicza. "Tu nie chodziło o Legię, tylko jej ówczesnego trenera" 
-
-Ariel Mosór jest synem byłego piłkarza Legii Warszawa - Piotra. Od dziecka kibicował temu klubowi, grał w jego młodzieżowych drużyna. W seniorskim zespole jednak nie dostał prawdziwej szansy i musiał 
-
-[Link do całego artykułu](https://sport.dziennik.pl/pilka-nozna/ekstraklasa/artykuly/9449537,mosor-bije-w-michniewicza-tu-nie-chodzilo-o-legie-tylko-jej-owczesn.html) 
-
-![Zdjęcie](https://ocdn.eu/pulscms-transforms/1/jNwk9kuTURBXy9hYjc1ZjU5ZC1lNWZiLTQ3MzktYjI1YS0wNzI1MTczNjdmYWIuanBlZ5GVAs0EsADDw94AAaEwBQ) 
-
-06/03/2024  14:04 
-
-## Mosór o Legii: Choćbym stanął na głowie, nie dostałbym szansy 
-
-Ariel Mosór od najmłodszych lat kibicował Legii Warszawa. Nie zdołał jednak się przebić do pierwszego składu. Do kogo więc czuje żal? 
-
-[Link do całego artykułu](https://weszlo.com/2024/03/06/mosor-o-legii-chocbym-stanal-na-glowie-nie-dostalbym-szansy/) 
-
-![Zdjęcie](https://static.weszlo.com/cdn-cgi/image/quality=65,format=auto/2024/01/638397850074886505-scaled.jpg) 
 
 06/03/2024  14:50 
 
@@ -49,5 +39,15 @@ Rezerwy Legii Warszawa pokonały Lechię Tomaszów Mazowiecki 3:0. Kacper Tobias
 [Link do całego artykułu](https://eurosport.tvn24.pl/pilka-nozna/kacper-tobiasz-obronil-rzut-karny-qendrim-zyba-z-golem.-rezerwy-legii-warszawa-liderem-iii-ligi_sto10048219/story.shtml) 
 
 ![Zdjęcie](https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/03/04/3922739-79687548-2560-1440.jpg) 
+
+06/03/2024  19:27 
+
+## Legia o krok od półfinału Pucharu Europy! Bilbao pokonane w Warszawie 
+
+Koszykarze Legii Warszawa, sensacyjni zdobywcy Pucharu Polski, są "na fali". W środę zespół Marka Popiołka niespodziewanie pokonał Surne Bilbao Basket 83:64 w pierwszym ćwierćfinałowym meczu Pucharu E 
+
+[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/legia-o-krok-od-półfinału-pucharu-europy-bilbao-pokonane-w-warszawie/ar-BB1jrGlu) 
+
+![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/7c/bc/65e8c19e8ce77_o_original.jpg) 
 
 [Powrót do listy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)

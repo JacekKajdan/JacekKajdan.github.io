@@ -10,16 +10,6 @@ Do treningów w tym tygodniu powinien powrócić Luka Zahović. Słoweńca nie b
 
 ![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/86/13/65e704821ae56_o_original.jpg) 
 
-06/03/2024  11:56 
-
-## W walce o mistrzostwo Polki Pogoń Szczecin musi trzymać formę z lutego 
-
-ANALIZA. Marzec to cztery kolejki PKO Ekstraklasy plus zaległe spotkania. Pogoń Szczecin teoretycznie najtrudniejsze w tym miesiącu ma już za sobą, więc musi teraz walczyć o trzy wygrane. 
-
-[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/w-walce-o-mistrzostwo-polki-pogoń-szczecin-musi-trzymać-formę-z-lutego/ar-BB1jqeRM) 
-
-![Zdjęcie](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1jqhlu.img?w=640&h=400&m=4&q=71) 
-
 03/03/2024  14:13 
 
 ## Podwójny zysk kobiecej Pogoni Szczecin. Rośnie przewaga [ZDJĘCIA] 
@@ -29,6 +19,16 @@ Piłka nożna. Na inaugurację wiosny Pogoń Szczecin rozbiła na swoim boisku U
 [Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/podwójny-zysk-kobiecej-pogoni-szczecin-rośnie-przewaga-zdjęcia/ar-BB1jfUGT) 
 
 ![Zdjęcie](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1jg1eK.img?w=640&h=400&m=4&q=71) 
+
+06/03/2024  11:56 
+
+## W walce o mistrzostwo Polki Pogoń Szczecin musi trzymać formę z lutego 
+
+ANALIZA. Marzec to cztery kolejki PKO Ekstraklasy plus zaległe spotkania. Pogoń Szczecin teoretycznie najtrudniejsze w tym miesiącu ma już za sobą, więc musi teraz walczyć o trzy wygrane. 
+
+[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/w-walce-o-mistrzostwo-polki-pogoń-szczecin-musi-trzymać-formę-z-lutego/ar-BB1jqeRM) 
+
+![Zdjęcie](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1jqhlu.img?w=640&h=400&m=4&q=71) 
 
 03/03/2024  14:21 
 

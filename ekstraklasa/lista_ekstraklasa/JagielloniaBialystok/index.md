@@ -1,5 +1,25 @@
 # Wiadomości o klubie Jagiellonia Białystok
 
+06/03/2024  19:47 
+
+## Jacek Magiera przed meczem na szczycie PKO BP Ekstraklasy. "Jagiellonia ma zawodników potrafiących grać w piłkę" 
+
+W piątkowy wieczór rozegrany zostanie wielki hit 24. kolejki PKO BP Ekstraklasy. Liderujący Śląsk Wrocław zmierzy się z drugą w tabeli Jagiellonią Białystok. Przed tym starciem głos na konferencji prasowej zabrał trener zespołu z Dolnego Śląska Jacek Magiera. 
+
+[Link do całego artykułu](https://futbol.pl/news/583298_Jacek_Magiera_przed_meczem_na_szczycie_PKO_BP_Ekstraklasy_Jagiellonia_ma_zawodnikow_potrafiacych_grac_w_pilke) 
+
+![Zdjęcie](https://futbol.pl/images/1709752435_magiera_screen.png) 
+
+28/02/2024  17:51 
+
+## Jak on tego nie trafił?! Fatalne pudło gracza Jagiellonii Białystok [WIDEO] 
+
+Mecz Jagiellonii Białystok z Koroną Kielce miał ogromne znaczenie, bo przecież jego stawką był awans do półfinału Pucharu Polski. Do przerwy Jaga mogła prowadzić, ale fatalne pudło zanotował Jarosław 
+
+[Link do całego artykułu](https://sportowefakty.wp.pl/pilka-nozna/1109039/jak-on-tego-nie-trafil-fatalne-pudlo-gracza-jagiellonii-bialystok-wideo) 
+
+![Zdjęcie](https://v.wpimg.pl/NTUyLmpwYTU0GzpeXwxsIHdDbg4AHxEnM1QtCR0eID0mDT4MEx0vdnlbOU9KVWEnIRY-DBcSfHszHC0ZBQUrMAoWPgQXHiA1OVZ6WBQReWQzGnRdFhZ-YgpAeFRFQXthZ1cmHRdVMw) 
+
 28/02/2024  16:00 
 
 ## Fortuna Puchar Polski. Jagiellonia Białystok - Korona Kielce. O której? Transmisja TV, stream online 
@@ -20,34 +40,14 @@ Jagiellonia Białystok niespodziewanie zremisowała u siebie z Ruchem Chorzów 1
 
 ![Zdjęcie](https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/02/24/3904491-79322588-2560-1440.jpg) 
 
-02/03/2024  11:32 
+06/03/2024  18:35 
 
-## PKO BP Ekstraklasa: Górnik Zabrze - Jagiellonia Białystok. Relacja live i wynik na żywo 
+## Radomiak Radom zagra z Jagiellonią Białystok w PKO BP Ekstraklasie. Można już kupować bilety na ten mecz. Sprzedano już cztery tysiące! 
 
-Górnik Zabrze i Jagiellonia Białystok zmierzą się ze sobą w ramach 23. kolejki PKO BP Ekstraklasy. Białostoczanie plasują się na szczycie tabeli i za wszelką cenę będą chcieli utrzymać pozycję lidera. 
+Po domowym, pierwszym w 2024 roku triumfie Radomiaka ze Stalą Mielec, w piątek zieloni zagrają o punkty w Gliwicach z Piastem. Będzie to rywalizacja w ramach 24. kolejki. Tymczasem następnym meczem, jaki czekał będzie na podopiecznych Macieja Kędziorka, będzie domowe starcie z aktualnym wiceliderem rozgrywek - Jagiellonią Białystok. 
 
-[Link do całego artykułu](https://www.polsatsport.pl/wiadomosc/2024-03-02/pko-bp-ekstraklasa-gornik-zabrze-jagiellonia-bialystok-relacja-live-i-wynik-na-zywo/) 
+[Link do całego artykułu](https://echodnia.eu/radomskie/radomiak-radom-zagra-z-jagiellonia-bialystok-w-pko-bp-ekstraklasie-mozna-juz-kupowac-bilety-na-ten-mecz-sprzedano-juz-cztery/ar/c2-18364619) 
 
-![Zdjęcie](https://ipla.pluscdn.pl/dituel/cp/o2/o25ycnz2t4wi29xfcp9h6kf7a88prhe3.jpg) 
-
-28/02/2024  23:59 
-
-## Jagiellonia w półfinale Pucharu Polski. Ten mecz może ich odbudować 
-
-"To dopiero początek wielkich emocji" - mówili po zwycięskim ćwierćfinale Fortuna Pucharu Polski kibice Jagiellonii Białystok. Żółto-czerwoni ... korzystać z prostych środków rozgrywania piłki. Tak też padła bramka wyrównująca. 
-
-[Link do całego artykułu](https://sport.tvp.pl/76186458/jagiellonia-w-polfinale-pucharu-polski-ten-mecz-moze-ich-odbudowac) 
-
-![Zdjęcie](None) 
-
-04/03/2024  11:16 
-
-## Wnioski po meczu Górnik - Jagiellonia. Trzeba uszczelnić defensywę, a z przodu poprawić celowniki 
-
-- Różnica na dzień dzisiejszy jest taka w porównaniu do jesieni, że nie otwieramy wyniku. Gdy robi to rywal, scenariusz układa się po myśli przeciwnika - powiedział na pomeczowej konferencji prasowej w Zabrzu po porażce 1:2 z Górnikiem trener Adrian Siemieniec. 
-
-[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/wnioski-po-meczu-górnik-jagiellonia-trzeba-uszczelnić-defensywę-a-z-przodu-poprawić-celowniki/ar-BB1jiAJ3) 
-
-![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/03/e3/65e5a7c2c9eaa_o_original.jpg) 
+![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/ab/37/65e8b0f7ddcfd_o_original.jpg) 
 
 [Powrót do listy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)

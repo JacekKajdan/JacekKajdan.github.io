@@ -1,5 +1,15 @@
 # Wiadomości o klubie ŁKS Łódź
 
+06/03/2024  11:44 
+
+## W 43 meczu ŁKS Łódź z Wartą Poznań, dla łodzian liczą się trzy punkty 
+
+W poniedziałkowy wieczór ostatni w tabeli PKOEkstraklasy ŁKS Łódź zmierzy się z Wartą Poznań, która zajmuje miejsce 12. 
+
+[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/w-43-meczu-łks-łódź-z-wartą-poznań-dla-łodzian-liczą-się-trzy-punkty/ar-BB1jqgOA) 
+
+![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/0a/ee/65e85731832a6_o_original.jpg) 
+
 06/03/2024  08:19 
 
 ## Zagrożenie terrorystyczne na stadionie ŁKS-u. Wkroczą służby specjalne 
@@ -39,15 +49,5 @@ Gospodarze byli w drugiej połowie zespołem lepszym, ale w końcówce nie unikn
 [Link do całego artykułu](https://eurosport.tvn24.pl/pilka-nozna/pko-bp-ekstraklasa/2023-2024/kamil-zapolnik-i-jego-gol-przewrotka-ozdoba-meczu-ekstraklasy-lks-lodz-puszcza-niepolomice_sto10047209/story.shtml) 
 
 ![Zdjęcie](None) 
-
-04/03/2024  18:00 
-
-## Nieudana wyprawa do Łodzi 
-
-PIŁKA NOŻNA\\\ W 22. kolejce II ligi Stomil miał zdobyć w Łodzi punkt lub punkty, by opuścić strefę spadkową. Niestety, w drugiej połowie meczu z rezerwami ŁKS do siatki trafiali jedynie rywale, w efekcie olsztynianie do domu wrócili na tarczy. 
-
-[Link do całego artykułu](https://gazetaolsztynska.pl/sport/1025856,Stomil-znowu-blizej-III-ligi.html) 
-
-![Zdjęcie](https://m.wm.pl/2024/03/n/f03-1115493.jpg) 
 
 [Powrót do listy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)

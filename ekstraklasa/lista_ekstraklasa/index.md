@@ -6,7 +6,7 @@
 
  ![Zdjęcie](https://tse4.mm.bing.net/th?id=OIP.DAmuN1Sfa_MDp06MMVGtEgAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/Cracovia)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/Cracovia)
 
 ## Górnik Zabrze
 
@@ -14,7 +14,7 @@
 
  ![Zdjęcie](https://tse2.mm.bing.net/th?id=OIP.1_eaw-cpUqb8hzTZl_si2QAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/GornikZabrze)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/GornikZabrze)
 
 ## Jagiellonia Białystok
 
@@ -22,7 +22,7 @@
 
  ![Zdjęcie](https://tse1.mm.bing.net/th?id=OIP.28Kyw23Wxo_9Sa9ewcNS4AAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/JagielloniaBialystok)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/JagielloniaBialystok)
 
 ## Korona Kielce
 
@@ -30,7 +30,7 @@
 
  ![Zdjęcie](https://tse1.mm.bing.net/th?id=OIP.E4LylS90wKkf0OEAHHVe8QAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/KoronaKielce)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/KoronaKielce)
 
 ## Lech Poznań
 
@@ -38,7 +38,7 @@
 
  ![Zdjęcie](https://tse3.mm.bing.net/th?id=OIP.iyFLLU3KSoUc5tSF46stEwHaHa&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/LechPoznan)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/LechPoznan)
 
 ## Legia Warszawa
 
@@ -46,7 +46,7 @@
 
  ![Zdjęcie](https://tse4.mm.bing.net/th?id=OIP.lY7GlwG36f5g5NTaaz23nwAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/LegiaWarszawa)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/LegiaWarszawa)
 
 ## ŁKS Łódź
 
@@ -54,7 +54,7 @@
 
  ![Zdjęcie](https://tse3.mm.bing.net/th?id=OIP.imw2w8NZUMmzwZYM58qw2AAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/LKSLodz)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/LKSLodz)
 
 ## Piast Gliwice
 
@@ -62,7 +62,7 @@
 
  ![Zdjęcie](https://tse4.mm.bing.net/th?id=OIP.LDoTtwOzjtagLMiVBkzpxAAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/PiastGliwice)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/PiastGliwice)
 
 ## Pogoń Szczecin
 
@@ -70,7 +70,7 @@
 
  ![Zdjęcie](https://tse3.mm.bing.net/th?id=OIP._v90l86TzQAbgeQiSbv6xwAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/PogonSzczecin)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/PogonSzczecin)
 
 ## Puszcza Niepołomice
 
@@ -78,7 +78,7 @@
 
  ![Zdjęcie](https://tse1.mm.bing.net/th?id=OIP.xuLqEEcev8GnbDFYFBWbPQAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/PuszczaNiepolomice)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/PuszczaNiepolomice)
 
 ## Radomiak Radom
 
@@ -86,7 +86,7 @@
 
  ![Zdjęcie](https://tse4.mm.bing.net/th?id=OIP.OvToTJzSqg7rO1osm1E47AAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/RadomiakRadom)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/RadomiakRadom)
 
 ## Raków Częstochowa
 
@@ -94,7 +94,7 @@
 
  ![Zdjęcie](https://tse2.mm.bing.net/th?id=OIP.OONrTNt6N81hTHjQEoFBRwAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/RakowCzestochowa)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/RakowCzestochowa)
 
 ## Ruch Chorzów
 
@@ -102,7 +102,7 @@
 
  ![Zdjęcie](https://tse1.mm.bing.net/th?id=OIP.m7jp6noRTeNoytgEj_bxBgHaHa&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/RuchChorzow)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/RuchChorzow)
 
 ## Stal Mielec
 
@@ -110,7 +110,7 @@
 
  ![Zdjęcie](https://tse3.mm.bing.net/th?id=OIP.dMN-2OWSvhNSIjAHPZaVrwAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/StalMielec)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/StalMielec)
 
 ## Śląsk Wrocław
 
@@ -118,7 +118,7 @@
 
  ![Zdjęcie](https://tse2.mm.bing.net/th?id=OIP.pQneZO-AeFc6tgd4pwLA0wHaHa&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/SlaskWroclaw)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/SlaskWroclaw)
 
 ## Warta Poznań
 
@@ -126,7 +126,7 @@
 
  ![Zdjęcie](https://tse3.mm.bing.net/th?id=OIP.ALMGqmOdBvyaafO52OmK7AAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/WartaPoznan)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/WartaPoznan)
 
 ## Widzew Łódź
 
@@ -134,5 +134,5 @@
 
  ![Zdjęcie](https://tse2.mm.bing.net/th?id=OIP.X36YdBwSU1xmKb8uoeHu8gAAAA&pid=Api)
 
- [Newsy](https://jacekkajdan.github.io/WidzewLodz)
+ [Newsy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa/WidzewLodz)
 

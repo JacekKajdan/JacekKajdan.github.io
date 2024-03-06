@@ -20,16 +20,6 @@ W meczu 23. kolejki PKO BP Ekstraklasy Cracovia zmierzy się z Wartą Poznań. S
 
 ![Zdjęcie](https://v.wpimg.pl/MzE5LmpwYhskVzpeXwxvDmcPbg4AHxIJIxgtCR0eIxM2QT4MEx0sWGkXOU9KVWIJMVo-DBcSf1UjUC0ZBQUoHhpaPgQXHiMbKRp6WEdGLkkkA39ZEkQsQhoMe1hERH5LfBsmHRdVMA) 
 
-06/03/2024  11:44 
-
-## W 43 meczu ŁKS Łódź z Wartą Poznań, dla łodzian liczą się trzy punkty 
-
-W poniedziałkowy wieczór ostatni w tabeli PKOEkstraklasy ŁKS Łódź zmierzy się z Wartą Poznań, która zajmuje miejsce 12. 
-
-[Link do całego artykułu](https://www.msn.com/pl-pl/sport/other/w-43-meczu-łks-łódź-z-wartą-poznań-dla-łodzian-liczą-się-trzy-punkty/ar-BB1jqgOA) 
-
-![Zdjęcie](https://d-art.ppstatic.pl/kadry/k/r/1/0a/ee/65e85731832a6_o_original.jpg) 
-
 01/03/2024  18:23 
 
 ## Przełamanie Warty Poznań. Efektowny gol dał wygraną z Cracovią 
@@ -49,5 +39,15 @@ Warta Poznań nie miała lepszych niż Cracovia okazji, by strzelić gola, ale d
 [Link do całego artykułu](https://www.polsatsport.pl/wiadomosc/2024-03-01/pko-bp-ekstraklasa-cracovia-warta-poznan-relacja-live-i-wynik-na-zywo/) 
 
 ![Zdjęcie](https://ipla.pluscdn.pl/dituel/cp/ut/utx7p7ucze65n4fz722v75jptzds1sp1.jpg) 
+
+11/02/2024  02:01 
+
+## Niespodzianka w ekstraklasie. Warta Poznań zaskoczyła Raków Częstochowa 
+
+Warta poszła za ciosem. W 20. minucie miejscowi przejęli piłkę w środku pola i wyprowadzili błyskawiczną kontrę. Chorwat Dario Vizinger idealnie podał do Austriaka Stefana Savicia, ten zwiódł jednego obrońcę i uderzył celnie po długim słupku. 
+
+[Link do całego artykułu](https://eurosport.tvn24.pl/pilka-nozna/pko-bp-ekstraklasa/2023-2024/warta-poznan-rakow-czestochowa-wynik-i-relacja.-pko-bp-ekstraklasa_sto10018059/story.shtml) 
+
+![Zdjęcie](None) 
 
 [Powrót do listy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)
