@@ -61,7 +61,7 @@ my_web='https://jacekkajdan.github.io/'
 md_str="# Drużyny polskiej ekstraklasy 2023/2034\n\n"
 
 for i in range(len(teams)):
-    md_str+=f'## {teams[i]}\n\n [Wikipedia]({links[i]})\n\n ![Zdjęcie]({photos[i]})\n\n [Newsy]({my_web+sites[i]})\n\n'
+    md_str+=f'## {teams[i]}\n\n [Wikipedia]({links[i]})\n\n ![Zdjęcie]({photos[i]})\n\n [Newsy]({my_web}ekstraklasa/lista_ekstraklasa/{sites[i]})\n\n'
 
 os.mkdir('ekstraklasa')
 
