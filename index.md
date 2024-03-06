@@ -1,1 +1,1 @@
-[Ekstraklasa](https://jacekkkajdan.github.io/ekstraklasa)
+[Ekstraklasa](https://jacekkajdan.github.io/ekstraklasa)
