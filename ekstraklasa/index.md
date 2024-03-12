@@ -18,4 +18,6 @@ Mimo tych argumentów, trzeba również zauważyć, że inne ligi, takie jak ang
 ~ChatGPT
 
 
-## [Lista drużyn ekstraklasy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)
+## [Lista drużyn Ekstraklasy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)
+
+## [Historia Ekstraklasy](https://jacekkajdan.github.io/ekstraklasa/historia)
