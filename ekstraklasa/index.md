@@ -21,3 +21,5 @@ Mimo tych argumentów, trzeba również zauważyć, że inne ligi, takie jak ang
 ## [Lista drużyn Ekstraklasy](https://jacekkajdan.github.io/ekstraklasa/lista_ekstraklasa)
 
 ## [Historia Ekstraklasy](https://jacekkajdan.github.io/ekstraklasa/historia)
+
+## [Ankieta](https://jacekkajdan.github.io/ekstraklasa/ankieta)
