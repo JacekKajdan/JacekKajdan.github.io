@@ -3,13 +3,74 @@
 <head> 
     <link href="./output.css" rel="stylesheet">
     <title>Historia Ekstraklasy</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+      }
+      .grid-container {
+        display: grid;
+        grid-template-columns: 200px 1fr; /* Sidebar and main body */
+        grid-template-rows: auto 1fr auto; /* Header, main body, footer */
+        grid-gap: 10px; /* Gap between grid items */
+        height: 100vh; /* Full height of the viewport */
+      }
+      header, footer, side, main {
+        padding: 10px;
+      }
+      header, footer {
+        background-color: #a1ddf0;
+        grid-column: 1 / -1; /* Span across all columns */
+      }
+      side {
+        background-color: #7bd6f1;
+        grid-row: 2 / span 2; /* Span from row 2 to the last row */
+      }
+      main {
+        background-color: #bbe4f0;
+        overflow-y: auto; /* Allow main content to be scrollable if needed */
+      }
+      header {
+        font-size:xx-large;
+      }
+    </style>
 </head>
-<body>
+<body class="grid-container">
     <header>    
         <h1>Historia Ekstraklasy</h1>
         <h2>1920-2024</h2>
     </header>
-    <article>
+    <side>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+      <svg class="animate-spin" width="100" height="100">
+        <polygon points="50,0 20,94 95,34 5,34 80,94"
+        style="fill:yellow;" />
+      </svg>
+    </side>
+    <main>
     <table class="border-separate border border-slate-500 table-auto">
         <caption class="caption-top">
           Tabela wszechczasów Ekstraklasy
@@ -63,20 +124,20 @@
         <li>Lech Poznań - 8</li>
         <li>Cracovia - 5</li>
       </ol> 
-
+      <br>
 
       <em class="text-red-400"> Pierwszym Mistrzem Polski była <strong>Cracovia</strong></em>
       <br><br>
 
 
-      <p class="text-sky-500">Przykład celebracji <em>Mistrzostwa Polski - Lech Poznań 2022</em></p>
+      <p>Przykład celebracji <em>Mistrzostwa Polski - Lech Poznań 2022</em></p>
       <img
         class="fit-picture hover:animate-pulse-slow"
         src="https://kkslech.com/wp-content/uploads/2022/05/mistrzpolski-1.jpg"
         alt="Mistrzowstwo Lecha Poznań w 2022 roku">
       <br><br><br>
 
-      <svg  class="animate-ping absolute inline-flex h-4 w-4 rounded-full bg-sky-400 opacity-75"></svg>
+      <svg  class="animate-ping absolute inline-flex h-4 w-4 rounded-full bg-red-400 opacity-75"></svg>
       <br>
       <h3 class="form-esa">Ankieta</h3>
         <form action="temp" method="get" class="form-esa">
@@ -144,10 +205,50 @@
         <!--<svg class="animate-spin h-120 w-400 mr-3" width="400" height="120">
           <rect x="10" y="10" width="200" height="100" stroke="red" stroke-width="6" fill="blue" />
         </svg>-->
+        flex-row:
+        <div class="flex flex-row">
+          <svg class="animate-spin h-30 w-30 mr-3" width="30" height="30">
+            <rect x="0" y="0" width="30" height="30" stroke="red" stroke-width="6" fill="blue" />
+          </svg>
+          <svg class="animate-ping h-30 w-30 mr-3" width="30" height="30">
+            <rect x="0" y="0" width="30" height="30" stroke="green" stroke-width="6" fill="yellow" />
+          </svg>
+          <svg class="animate-spin h-30 w-30 mr-3" width="30" height="30">
+            <rect x="0" y="0" width="30" height="30" stroke="grey" stroke-width="6" fill="pink" />
+          </svg>
+        </div>
+        <br><br>
+        flex-col:
+        <div class="flex flex-col ">
+          <svg class="animate-spin h-30 w-30 mr-3" width="30" height="30">
+            <rect x="0" y="0" width="30" height="30" stroke="red" stroke-width="6" fill="blue" />
+          </svg>
+          <svg class="animate-ping h-30 w-30 mr-3" width="30" height="30">
+            <rect x="0" y="0" width="30" height="30" stroke="green" stroke-width="6" fill="yellow" />
+          </svg>
+          <svg class="animate-spin h-30 w-30 mr-3" width="30" height="30">
+            <rect x="0" y="0" width="30" height="30" stroke="grey" stroke-width="6" fill="pink" />
+          </svg>
+        </div>
+
+        <br>
+        <div class="flex ...">
+          <div class="flex-none w-32 rounded-md flex items-center justify-center bg-cyan-100 shadow-md">
+            None
+          </div>
+          <div class="flex-auto w-64 rounded-md flex items-center justify-center bg-cyan-200 shadow-md">
+            Auto 1
+          </div>
+          <div class="flex-auto w-32 rounded-md flex items-center justify-center bg-cyan-300 shadow-md">
+            Auto 2
+          </div>
+          <div class="flex-auto w-16 rounded-md flex items-center justify-center bg-cyan-400 shadow-md">
+            Auto 3
+          </div>
+        </div>
+
         
-
-
-      </article>
+      </main>
       <footer>
         <em class="text-neutral-400">Page by Jacek Kajdan 2024</em>
       </footer>
