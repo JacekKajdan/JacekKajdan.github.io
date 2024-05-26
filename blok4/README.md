@@ -1,6 +1,6 @@
 ## pics.db - baza danych z tabelami na obrazki i prostokąty
 
-## setup_db - serwer FastAPI
+## setup_db.py - serwer FastAPI
 
 ## index.xyz - generator obrazków
 
